@@ -98,11 +98,11 @@
         {
           "name": "bolt-earth-ui-sdk-1.0.0.aar",
           "url": "bolt-earth-ui-sdk-1.0.0.aar",
-          "size": 10124405,
-          "sha512": "37756459ff34eaa3b9f81b1a470196dfa96ab18e6f5d966bfea543370521cd20e0e00544922c65504a5db95a5bc8bdd25ce981ac7bea5cbae9dbadfbc3379e27",
-          "sha256": "0c25cf0e52eb61396eb19d46880c5dd4754116b85c34663e3950d92ad65776e2",
-          "sha1": "cf8059c2f94094c9c4fc8f0eb5e51e5148fe36ad",
-          "md5": "a72e8712af0add683cc2f8dbf6ab98b4"
+          "size": 10131487,
+          "sha512": "a022b4d316005b8eec3efeab568dccc4dd075b4832eafac250c901c9020a76124c07bc1732affcfad8e89d9a718d0058503aaeeff455fde272d20cf746410d80",
+          "sha256": "59392e51ef0a13f6930fd1c2b94d178540909daea0cda7fd3778e6ec3675869b",
+          "sha1": "79c263feb1e27e88a9ddead711b3749bcc9f8822",
+          "md5": "b6ac39d16d7a397bb67cf836cd893c9f"
         }
       ]
     },
@@ -238,7 +238,7 @@
           "group": "com.google.dagger",
           "module": "hilt-android",
           "version": {
-            "requires": "2.51.1"
+            "requires": "2.54"
           }
         },
         {
@@ -606,11 +606,11 @@
         {
           "name": "bolt-earth-ui-sdk-1.0.0.aar",
           "url": "bolt-earth-ui-sdk-1.0.0.aar",
-          "size": 10124405,
-          "sha512": "37756459ff34eaa3b9f81b1a470196dfa96ab18e6f5d966bfea543370521cd20e0e00544922c65504a5db95a5bc8bdd25ce981ac7bea5cbae9dbadfbc3379e27",
-          "sha256": "0c25cf0e52eb61396eb19d46880c5dd4754116b85c34663e3950d92ad65776e2",
-          "sha1": "cf8059c2f94094c9c4fc8f0eb5e51e5148fe36ad",
-          "md5": "a72e8712af0add683cc2f8dbf6ab98b4"
+          "size": 10131487,
+          "sha512": "a022b4d316005b8eec3efeab568dccc4dd075b4832eafac250c901c9020a76124c07bc1732affcfad8e89d9a718d0058503aaeeff455fde272d20cf746410d80",
+          "sha256": "59392e51ef0a13f6930fd1c2b94d178540909daea0cda7fd3778e6ec3675869b",
+          "sha1": "79c263feb1e27e88a9ddead711b3749bcc9f8822",
+          "md5": "b6ac39d16d7a397bb67cf836cd893c9f"
         }
       ]
     }
