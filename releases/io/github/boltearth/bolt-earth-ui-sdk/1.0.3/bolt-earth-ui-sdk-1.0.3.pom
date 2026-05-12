@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.github.boltearth</groupId>
   <artifactId>bolt-earth-ui-sdk</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.3</version>
   <packaging>aar</packaging>
   <name>Bolt Earth UI SDK — bolt-earth-ui-sdk</name>
   <description>Bolt Earth Android UI SDK (charger booking, control, and related flows).</description>

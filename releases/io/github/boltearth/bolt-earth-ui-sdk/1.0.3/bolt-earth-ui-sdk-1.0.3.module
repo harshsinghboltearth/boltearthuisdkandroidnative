@@ -3,7 +3,7 @@
   "component": {
     "group": "io.github.boltearth",
     "module": "bolt-earth-ui-sdk",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -96,8 +96,8 @@
       ],
       "files": [
         {
-          "name": "bolt-earth-ui-sdk-1.0.0.aar",
-          "url": "bolt-earth-ui-sdk-1.0.0.aar",
+          "name": "bolt-earth-ui-sdk-1.0.3.aar",
+          "url": "bolt-earth-ui-sdk-1.0.3.aar",
           "size": 10143492,
           "sha512": "e199488ff01ae055d3851226340a0cca3a879e7cceadb8a17eea800eb7c4c2197017b352b0ced6c15f810bb462d0ff68d7ab321e4fd183a3ce92256e375800e3",
           "sha256": "a2108a0c762062a996fd4a6142bcb8f07a8d727e08df019c13cf2704dda7a64f",
@@ -604,8 +604,8 @@
       ],
       "files": [
         {
-          "name": "bolt-earth-ui-sdk-1.0.0.aar",
-          "url": "bolt-earth-ui-sdk-1.0.0.aar",
+          "name": "bolt-earth-ui-sdk-1.0.3.aar",
+          "url": "bolt-earth-ui-sdk-1.0.3.aar",
           "size": 10143492,
           "sha512": "e199488ff01ae055d3851226340a0cca3a879e7cceadb8a17eea800eb7c4c2197017b352b0ced6c15f810bb462d0ff68d7ab321e4fd183a3ce92256e375800e3",
           "sha256": "a2108a0c762062a996fd4a6142bcb8f07a8d727e08df019c13cf2704dda7a64f",
