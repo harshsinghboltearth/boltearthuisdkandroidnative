@@ -9,7 +9,7 @@ import urllib.request
 from pathlib import Path
 
 # Published coordinate version (change here when you ship a new drop).
-VERSION = "1.0.0"
+VERSION = "1.0.6"
 
 REPO = Path(__file__).resolve().parent.parent
 BASE = REPO / "releases/io/github/boltearth/bolt-earth-ui-sdk"
