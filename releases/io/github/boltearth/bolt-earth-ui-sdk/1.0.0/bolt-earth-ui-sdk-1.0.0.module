@@ -105,11 +105,11 @@
         {
           "name": "bolt-earth-ui-sdk-1.0.0.aar",
           "url": "bolt-earth-ui-sdk-1.0.0.aar",
-          "size": 10238838,
-          "sha512": "9578a25790baa03cbc363dc62be0b24dd5fede0eae774a43449004299f4bc00953c40b7d920c417be56b899b05caa185665d9c2d515a3be630fed657be2a2c27",
-          "sha256": "aa85aa09494cbc9471160b65c1f831f2570592c35a889f16f3f59dbc8aac1974",
-          "sha1": "996f5500afb89d26514c4fae644148907328a119",
-          "md5": "f625f69110bce997352964e9f438b2be"
+          "size": 10231749,
+          "sha512": "c4e513e501f22c1e862bf1235a48d1b7c8112a5d500667c964a711f15bba8958107bb9403e06af7fd071e2d2c6d1648cdf86ef314117c3fcd1ab7cda60c49863",
+          "sha256": "03a0c18edc90be33bb2c3261857902595021c98fcb5fc55ba11ef43d68f18b42",
+          "sha1": "3f6877b4a81e7b7f766fdfa6cf767670d52aa6dc",
+          "md5": "3b12019af43abc96ec9df615cbad3a63"
         }
       ]
     },
@@ -620,11 +620,11 @@
         {
           "name": "bolt-earth-ui-sdk-1.0.0.aar",
           "url": "bolt-earth-ui-sdk-1.0.0.aar",
-          "size": 10238838,
-          "sha512": "9578a25790baa03cbc363dc62be0b24dd5fede0eae774a43449004299f4bc00953c40b7d920c417be56b899b05caa185665d9c2d515a3be630fed657be2a2c27",
-          "sha256": "aa85aa09494cbc9471160b65c1f831f2570592c35a889f16f3f59dbc8aac1974",
-          "sha1": "996f5500afb89d26514c4fae644148907328a119",
-          "md5": "f625f69110bce997352964e9f438b2be"
+          "size": 10231749,
+          "sha512": "c4e513e501f22c1e862bf1235a48d1b7c8112a5d500667c964a711f15bba8958107bb9403e06af7fd071e2d2c6d1648cdf86ef314117c3fcd1ab7cda60c49863",
+          "sha256": "03a0c18edc90be33bb2c3261857902595021c98fcb5fc55ba11ef43d68f18b42",
+          "sha1": "3f6877b4a81e7b7f766fdfa6cf767670d52aa6dc",
+          "md5": "3b12019af43abc96ec9df615cbad3a63"
         }
       ]
     }
