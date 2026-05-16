@@ -9,7 +9,7 @@ import urllib.request
 from pathlib import Path
 
 # Published coordinate version (change here when you ship a new drop).
-VERSION = "1.0.3"
+VERSION = "1.0.5"
 
 REPO = Path(__file__).resolve().parent.parent
 BASE = REPO / "releases/io/github/boltearth/bolt-earth-ui-sdk"
@@ -18,7 +18,7 @@ VER_DIR = BASE / VERSION
 # Raw files on main (may use older filenames; content is rewritten for VERSION).
 RAW = (
     "https://raw.githubusercontent.com/adilkhanboltearth/boltearthuisdk/main/"
-    "releases/io/github/boltearth/bolt-earth-ui-sdk/1.5.0/"
+    "releases/io/github/boltearth/bolt-earth-ui-sdk/1.0.0/"
 )
 
 
@@ -30,9 +30,9 @@ def fetch(url: str) -> bytes:
 def main() -> None:
     VER_DIR.mkdir(parents=True, exist_ok=True)
 
-    aar = fetch(RAW + "bolt-earth-ui-sdk-1.0.1.aar")
-    pom_raw = fetch(RAW + "bolt-earth-ui-sdk-1.0.1.pom").decode("utf-8")
-    mod_data = json.loads(fetch(RAW + "bolt-earth-ui-sdk-1.0.1.module").decode("utf-8"))
+    aar = fetch(RAW + "bolt-earth-ui-sdk-1.0.0.aar")
+    pom_raw = fetch(RAW + "bolt-earth-ui-sdk-1.0.0.pom").decode("utf-8")
+    mod_data = json.loads(fetch(RAW + "bolt-earth-ui-sdk-1.0.0.module").decode("utf-8"))
 
     marker_old = "<artifactId>bolt-earth-ui-sdk</artifactId>\n  <version>1.0.0</version>"
     marker_new = f"<artifactId>bolt-earth-ui-sdk</artifactId>\n  <version>{VERSION}</version>"
