@@ -3,12 +3,13 @@
   <groupId>io.github.boltearth</groupId>
   <artifactId>bolt-earth-ui-sdk</artifactId>
   <versioning>
-    <latest>1.0.7</latest>
-    <release>1.0.7</release>
+    <latest>1.0.8</latest>
+    <release>1.0.8</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.7</version>
+      <version>1.0.8</version>
     </versions>
-    <lastUpdated>20260516152806</lastUpdated>
+    <lastUpdated>20260527174542</lastUpdated>
   </versioning>
 </metadata>
